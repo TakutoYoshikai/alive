@@ -1,5 +1,5 @@
 # alive
-A observer of web servers.
+An observer of web servers.
 
 You can register it as a cron task.
 
